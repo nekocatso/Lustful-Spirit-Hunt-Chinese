@@ -14,7 +14,7 @@
 
    > 路径会根据你的安装位置变化，只需找到游戏目录下 `Lustful Spirit Hunt_Data\StreamingAssets` 即可。
 
-2. 将本项目中所有 `.csv` 文件复制到该目录，覆盖原文件。
+2. 将release解包文件复制到该目录，覆盖原文件。
 
 3. 启动游戏即可。
 
