@@ -1,0 +1,112 @@
+{
+    "ghostVoiceType": 0,
+    "ghostVoicePitch": 1.15,
+    "ghostVoiceType2": 1,
+    "ghostVoicePitch2": 1.15,
+    "sexButtonHeight": 1.3,
+    "idlePivot": [
+        0.52,
+        0.53
+    ],
+    "firstSexName": "mashaseegg",
+    "firstSexSlapSound": 0,
+    "firstSexSlapSoundFrame": 3,
+    "firstSexPivot": [
+        0.5,
+        0.52
+    ],
+    "firstSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "firstCumPivot": [
+        0.5,
+        0.52
+    ],
+    "firstCumMaxFrame": 1,
+    "firstDownPivot": [
+        0.5,
+        0.52
+    ],
+    "secondSexName": "masuketchu",
+    "secondSexSlapSound": 6,
+    "secondSexSlapSoundFrame": 3,
+    "secondSexPivot": [
+        0.5,
+        0.52
+    ],
+    "secondSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "secondCumPivot": [
+        0.5,
+        0.52
+    ],
+    "secondCumMaxFrame": 1,
+    "secondDownPivot": [
+        0.5,
+        0.52
+    ],
+    "firstSexSlapSoundPitch": 1.0,
+    "secondSexSlapSoundPitch": 1.0,
+    "ghostKnockName": "hifumiknock",
+    "airKnock": true,
+    "airKnockHeight": 0.5,
+    "airKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "airKnockTimer": [
+        0.12
+    ],
+    "groundKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "groundKnockTimer": [
+        0.15,
+        0.15,
+        0.15,
+        0.15,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08
+    ],
+    "ghostEvidenceType": [         
+        "EMF5",
+        "Writing",
+        "Orbs"
+    ],
+    "ghostInteractionTypes": [         
+        ""
+    ],
+    "breakerInteractChance": 2,
+    "nonChaseSpeed": 2.5,
+    "chaseSpeed": 3.2,
+    "ghostWeakness": 1,
+    "huntingStrategy": 4,
+    "ghostCurses": [         
+        "",
+        "",
+        ""
+    ],
+    "huntThreshholds": [
+        50,
+        75,
+        85
+    ]
+}

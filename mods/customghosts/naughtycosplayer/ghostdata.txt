@@ -1,0 +1,111 @@
+{
+    "ghostVoiceType": 1,
+    "ghostVoicePitch": 1.15,
+    "ghostVoiceType2": 1,
+    "ghostVoicePitch2": 1.15,
+    "sexButtonHeight": 1.3,
+    "idlePivot": [
+        0.5,
+        0.49
+    ],
+    "firstSexName": "tomoassslap",
+    "firstSexSlapSound": 0,
+    "firstSexSlapSoundFrame": 3,
+    "firstSexPivot": [
+        0.5,
+        0.51
+    ],
+    "firstSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "firstCumPivot": [
+        0.5,
+        0.51
+    ],
+    "firstCumMaxFrame": 1,
+    "firstDownPivot": [
+        0.5,
+        0.51
+    ],
+    "secondSexName": "tomoclotheat",
+    "secondSexSlapSound": 7,
+    "secondSexSlapSoundFrame": 3,
+    "secondSexPivot": [
+        0.5,
+        0.48
+    ],
+    "secondSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "secondCumPivot": [
+        0.5,
+        0.48
+    ],
+    "secondCumMaxFrame": 1,
+    "secondDownPivot": [
+        0.5,
+        0.48
+    ],
+    "firstSexSlapSoundPitch": 1.0,
+    "secondSexSlapSoundPitch": 1.0,
+    "ghostKnockName": "hifumiknock",
+    "airKnock": true,
+    "airKnockHeight": 0.5,
+    "airKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "airKnockTimer": [
+        0.12
+    ],
+    "groundKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "groundKnockTimer": [
+        0.15,
+        0.15,
+        0.15,
+        0.15,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08
+    ],
+    "ghostEvidenceType": [         
+        "Orbs",
+        "UV"
+    ],
+    "ghostInteractionTypes": [         
+        "Claw"
+    ],
+    "breakerInteractChance": 2,
+    "nonChaseSpeed": 2.5,
+    "chaseSpeed": 2.7,
+    "ghostWeakness": 5,
+    "huntingStrategy": 0,
+    "ghostCurses": [         
+        "BleedCurse",
+        "",
+        ""
+    ],
+    "huntThreshholds": [
+        30,
+        50,
+        75
+    ]
+}

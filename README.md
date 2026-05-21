@@ -1,6 +1,6 @@
 # Lustful Spirit Hunt 中文汉化补丁
 
-> **补丁首发：** [itch.io 社区](https://ingeniusstudios.itch.io/lustful-spirit-hunt-18/community)
+> **补丁版本：** V0.4
 >
 > **项目地址：** [GitHub](https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese)
 

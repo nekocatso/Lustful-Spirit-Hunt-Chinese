@@ -1,0 +1,115 @@
+{
+    "ghostVoiceType": 0,
+    "ghostVoicePitch": 1.15,
+    "ghostVoiceType2": 1,
+    "ghostVoicePitch2": 1.15,
+    "sexButtonHeight": 1.3,
+    "idlePivot": [
+        0.52,
+        0.52
+    ],
+    "firstSexName": "slutwiferub",
+    "firstSexSlapSound": 3,
+    "firstSexSlapSoundFrame": 3,
+    "firstSexPivot": [
+        0.52,
+        0.49
+    ],
+    "firstSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "firstCumPivot": [
+        0.52,
+        0.49
+    ],
+    "firstCumMaxFrame": 1,
+    "firstDownPivot": [
+        0.52,
+        0.49
+    ],
+    "secondSexName": "slutwifeass",
+    "secondSexSlapSound": 0,
+    "secondSexSlapSoundFrame": 3,
+    "secondSexPivot": [
+        0.47,
+        0.68
+    ],
+    "secondSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "secondCumPivot": [
+        0.47,
+        0.68
+    ],
+    "secondCumMaxFrame": 4,
+    "secondDownPivot": [
+        0.47,
+        0.69
+    ],
+    "firstSexSlapSoundPitch": 1.0,
+    "secondSexSlapSoundPitch": 1.0,
+    "ghostKnockName": "hifumiknock",
+    "airKnock": true,
+    "airKnockHeight": 0.5,
+    "airKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "airKnockTimer": [
+        0.12
+    ],
+    "groundKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "groundKnockTimer": [
+        0.15,
+        0.15,
+        0.15,
+        0.15,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08
+    ],
+    "ghostEvidenceType": [         
+        "Writing",
+        "GhostBox",
+        "Orbs"
+    ],
+    "ghostInteractionTypes": [         
+        "Darkness",
+        "NoBreaker",
+        "Apparition",
+        "BulbBreak"
+    ],
+    "breakerInteractChance": 5,
+    "nonChaseSpeed": 2.5,
+    "chaseSpeed": 2.9,
+    "ghostWeakness": 1,
+    "huntingStrategy": 3,
+    "ghostCurses": [         
+        "",
+        "",
+        ""
+    ],
+    "huntThreshholds": [
+        80,
+        90,
+        95
+    ]
+}

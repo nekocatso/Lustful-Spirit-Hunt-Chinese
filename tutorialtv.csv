@@ -6,7 +6,7 @@ howpoint1,A) 找到3个证据。,A) Find 3 evidences.,A)証拠を 3 つ見つけ
 howpoint2,B) 通过行为观察来鉴定。,B) Identify using behaviour.,B)行動を観察する。
 howpoint3,C) 在日志中选择鬼魂。,C) Select the ghost in journal.,C)ゴーストを選択します。
 howpoint4,D) 捕获鬼魂。,D) Fuck the ghost.,D) 幽霊を捕まえる。
-point1explain,你需要使用不同工具找到3个证据（共7种）。紫外线指纹、通灵盒、激光显影、寒温、灵异光球、灵异笔迹和EMF 4级。工具的详细用法将在后文说明。,"There are 3 evidences(out of 7) you must find using different tools. UV prints, Audio Box, Laser Projection, freezing temps, ghost orbs, writing and EMF Lvl 4. Detailed use of tools is explained later.",幽霊が示した証拠を 3/7 見つけなければなりません。すべての証拠はジャーナルの「結論」タブにリストされます。
+point1explain,你需要使用不同工具找到3个证据（共7种）。紫外线指纹、通灵盒、激光显影、寒温、灵球、灵异笔迹和EMF 4级。工具的详细用法将在后文说明。,"There are 3 evidences(out of 7) you must find using different tools. UV prints, Audio Box, Laser Projection, freezing temps, ghost orbs, writing and EMF Lvl 4. Detailed use of tools is explained later.",幽霊が示した証拠を 3/7 見つけなければなりません。すべての証拠はジャーナルの「結論」タブにリストされます。
 point2explain,光找到证据还不够。你必须观察鬼魂的行为来确认它的类型。留意一些特定现象，比如碎玻璃、水渍等。更多鬼魂信息请查看日志。,"Finding evidence is not enough. You have to observe ghost behaviour to confirm it's type. Look for something specific like shattered glass, water puddle, etc. For more information on a ghost, check the journal.",証拠を見つけるだけでは十分ではありません。鏡の幻影、水たまりなどの特定の行動を探します。幽霊に関する詳しい情報は日記で見つけることができます。
 point3explain,确认鬼魂类型后，在日志的“结论”标签页中选中它。这是在尝试驱逐鬼魂之前必须完成的步骤。,"Once ghost type is confirmed, select it in the 'conclusion' tab of your journal. It's necessary before trying to fuck a ghost.",ゴーストを確認したら、結論タブのゴーストの一覧から選択します。幽霊を捕まえる前に行う必要があります。
 point4part1,D) 捕获鬼魂。（第1部分）,D) Fucking ghost. (Part 1),D) ゴーストの捕獲 (パート 1)
@@ -24,23 +24,23 @@ tool3name,C) 其他工具,C) Others,C)その他のツール
 toolobj1,1) 摄像机,1) Video Camera,1)ビデオカメラ
 toolobj2,2) 温度计,2) Hotness-meter,2) 温度計
 toolobj3,3) 紫外线手电,3) UV Flash-light,3)UVトーチ
-toolobj4,4) 激光投射器,4) Laser Projector,4)レーザーグリッド
+toolobj4,4) 点阵投影仪,4) Laser Projector,4)レーザーグリッド
 toolobj5,5) EMF读数器,5) Horny Reader,5)EMFリーダー
-toolobj6,6) 灵异笔记,6) Ghost Book,6)ゴーストブック
+toolobj6,6) 鬼魂笔记,6) Ghost Book,6)ゴーストブック
 toolobj7,7) 通灵盒,7) Ghost Box,7)オーディオボックス
 toolobj8,1) 破阴刃,1) Cursed Dildo,1)呪われたダガー
 toolobj9,2) 射精盐,2) Cum Salt,2)精液塩
 toolobj10,3) 照阴镜,3) Dark Mirror,3)黒い鏡
 toolobj11,4) 缚阴索,4) Sex Rope,4)特別なロープ
 toolobj12,5) 淫水,5) Cum Water,5)精液水
-toolobj13,6) 蜡精烛,6) Candles,6)キャンドル
+toolobj13,6) 蜡烛,6) Candles,6)キャンドル
 toolobj14,1) 阴尘粉,1) Flour,1)小麦粉
 toolobj15,2) 迷魂香,2) Incense Sticks,2)お線香
-toolobj16,3) 动态感应摄像头,3) Motion Camera,3)写真カメラ
+toolobj16,3) 运动传感器,3) Motion Camera,3)写真カメラ
 toolobj17,4) 蜜汁汉堡,4) Honey Burgers,4)ハニーバーガー
 toolobj18,5) 定魂丸,5) Sex Pills,5)恐怖の薬
 toolobj19,6) 精力罐,6) Energy Can,6)エネルギー缶
-toolobjuse1,可用于确认鬼房中的灵异光球。通过电脑访问摄像机（需开启夜视模式）。,Spy on ghosts from the truck. Can see orbs.,ゴーストルームでオーブを見つけるために使用します。コンピュータ経由でアクセスできます。(ナイトビジョンでのみ表示されます)
+toolobjuse1,可用于确认鬼房中的灵球。通过电脑访问摄像机（需开启夜视模式）。,Spy on ghosts from the truck. Can see orbs.,ゴーストルームでオーブを見つけるために使用します。コンピュータ経由でアクセスできます。(ナイトビジョンでのみ表示されます)
 toolobjuse2,可用它来寻找鬼房。鬼房的温度通常比其他房间更低。,Are ghost hot? Maybe not. Measures temperature in a room.,それを使用してゴーストルームを見つけます。ゴーストルームは他の部屋に比べて温度が低くなります。
 toolobjuse3,可以发现门、窗和其他物体上的紫外线指纹。,Find some naughty prints made by ghost.,窓、ドア、その他のオブジェクトへの UV プリントをご覧ください。
 toolobjuse4,可以确认激光显影。将其开启并通过摄像机观察。,Can confirm laser projection. Turn it on and observe it with video camera.,幽霊によって作られたレーザーの幻影をご覧ください。照明が消えているときのほうがよく見えます。

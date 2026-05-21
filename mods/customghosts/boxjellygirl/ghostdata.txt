@@ -1,0 +1,113 @@
+{
+    "ghostVoiceType": 0,
+    "ghostVoicePitch": 1.15,
+    "ghostVoiceType2": 1,
+    "ghostVoicePitch2": 1.15,
+    "sexButtonHeight": 1.02,
+    "idlePivot": [
+        0.5,
+        0.88
+    ],
+    "firstSexName": "jellygirleat",
+    "firstSexSlapSound": 7,
+    "firstSexSlapSoundFrame": 3,
+    "firstSexPivot": [
+        0.45,
+        0.58
+    ],
+    "firstSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "firstCumPivot": [
+        0.45,
+        0.58
+    ],
+    "firstCumMaxFrame": 1,
+    "firstDownPivot": [
+        0.45,
+        0.58
+    ],
+    "secondSexName": "jellyfillup",
+    "secondSexSlapSound": 0,
+    "secondSexSlapSoundFrame": 3,
+    "secondSexPivot": [
+        0.5,
+        0.62
+    ],
+    "secondSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "secondCumPivot": [
+        0.5,
+        0.62
+    ],
+    "secondCumMaxFrame": 9,
+    "secondDownPivot": [
+        0.5,
+        0.62
+    ],
+    "firstSexSlapSoundPitch": 1.0,
+    "secondSexSlapSoundPitch": 1.0,
+    "ghostKnockName": "hifumiknock",
+    "airKnock": true,
+    "airKnockHeight": 0.5,
+    "airKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "airKnockTimer": [
+        0.12
+    ],
+    "groundKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "groundKnockTimer": [
+        0.15,
+        0.15,
+        0.15,
+        0.15,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08
+    ],
+    "ghostEvidenceType": [         
+        "EMF5",
+        "GhostBox",
+        "LaserProj"
+    ],
+    "ghostInteractionTypes": [         
+        "NoBreaker",
+        "Flying"
+    ],
+    "breakerInteractChance": 5,
+    "nonChaseSpeed": 2.5,
+    "chaseSpeed": 2.9,
+    "ghostWeakness": 3,
+    "huntingStrategy": 2,
+    "ghostCurses": [         
+        "",
+        "",
+        ""
+    ],
+    "huntThreshholds": [
+        50,
+        75,
+        85
+    ]
+}

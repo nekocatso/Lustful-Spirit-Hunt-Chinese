@@ -2,6 +2,7 @@
 # 本文件是 "Lustful Spirit Hunt" 游戏本地化项目中所有专有名词的唯一权威映射。
 # 所有 CSV 翻译脚本应从此文件导入 ALL_GLOSSARY 字典。
 # 来源：game-translation-design.md（20 个分类）+ 历史 .pyc 补充条目
+# 项目地址 : https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese
 
 ALL_GLOSSARY = {
     # =========================================================================
@@ -10,8 +11,8 @@ ALL_GLOSSARY = {
     "Wendy": "温蒂",
     "Powerghost": "暴灵",
     "Poltergeist": "暴灵",
-    "Kupper": "河童妖",
-    "Kappa": "河童妖",
+    "Kupper": "河童",
+    "Kappa": "河童",
     "Shy": "羞影",
     "Shade": "羞影",
     "Countlanak": "哭啼女",
@@ -33,7 +34,7 @@ ALL_GLOSSARY = {
     "Rai-onna": "雷女",
     "Suck-ass-bee": "吸淫蜂",
     "Succubus": "吸淫蜂",
-    "Photogenic": "映魅",
+    "Photogenic": "魅影",
     "Serpent-End": "濡女",
     "Nure-onna": "濡女",
     "Cloaked Menace": "赤覆面",
@@ -330,11 +331,11 @@ ALL_GLOSSARY = {
     "Thermometer": "温度计",
     "UV Torch": "紫外线手电",
     "UV Flashlight": "紫外线手电",
-    "Laser Projector": "激光投射器",
-    "Laser Grid Projector": "激光投射器",
+    "Laser Projector": "点阵投影仪",
+    "Laser Grid Projector": "点阵投影仪",
     "EMF Reader": "EMF 读数器",
     "EMF Sensor": "EMF 读数器",
-    "Notebook": "灵异笔记",
+    "Notebook": "鬼魂笔记",
     "Audio Box": "通灵盒",
     "Ghost Box": "通灵盒",
     # =========================================================================
@@ -345,15 +346,15 @@ ALL_GLOSSARY = {
     "Dark Mirror": "照阴镜",
     "Special Rope": "缚阴索",
     "Cum Water": "淫水",
-    "Candle": "蜡精烛",
-    "Candles": "蜡精烛",
+    "Candle": "蜡烛",
+    "Candles": "蜡烛",
     # =========================================================================
     # 五、其他工具/消耗品 — 色情化命名
     # =========================================================================
     "Flour": "阴尘粉",
     "Incense Stick": "迷魂香",
     "Incense Sticks": "迷魂香",
-    "Motion Camera": "动态感应摄像头",
+    "Motion Camera": "运动传感器",
     "Honey Burger": "蜜汁汉堡",
     "Honey Burgers": "蜜汁汉堡",
     "Fear Pills": "定魂丸",
@@ -407,7 +408,7 @@ ALL_GLOSSARY = {
     # =========================================================================
     "UV Prints": "紫外线指纹",
     "Laser Apparition": "激光显影",
-    "Ghost Orbs": "灵异光球",
+    "Ghost Orbs": "灵球",
     "Writing": "灵异笔迹",
     "Freezing Temperature": "寒温",
     "Audio Response": "通灵回音",

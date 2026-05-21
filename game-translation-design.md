@@ -24,7 +24,7 @@
 |------|------|--------|------|
 | 0 | Wendy | 温蒂 | 首个鬼魂，保留音译 |
 | 1 | Powerghost | 暴灵 | Poltergeist 风格的暴烈灵体 |
-| 2 | Kupper | 河童妖 | Kappa 传说的河童妖怪 |
+| 2 | Kupper | 河童 | Kappa 传说的河童怪 |
 | 3 | Shy | 羞影 | Shade 的影子 + 羞怯感 |
 | 4 | Countlanak | 哭啼女 | Kuntilanak 印尼女鬼传说 |
 | 5 | Bloody Mariam | 血殇玛丽安 | 血腥 + 悲伤的玛丽安 |
@@ -36,7 +36,7 @@
 | 11 | You-Rei? | 幽灵姬 | 日式幽灵 + 姬 |
 | 12 | Thundergirl | 雷女 | Rai-onna 雷之女 |
 | 13 | Suck-ass-bee | 吸淫蜂 | Succubus 淫魔 + 蜂的双关 |
-| 14 | Photogenic | 映魅 | 拍照相关的魅影 |
+| 14 | Photogenic | 魅影 | 拍照相关的魅影 |
 | 15 | Serpent-End | 濡女 | Nure-onna 日式濡女 |
 | 16 | Cloaked Menace | 赤覆面 | Aka-manto 赤覆面直译 |
 | 17 | Sex Priestess | 淫祭女 | 祭祀 + 淫的组合 |
@@ -217,9 +217,9 @@
 | Video Camera | 摄像机 | 恐鬼症标准术语 |
 | Thermometer | 温度计 | 恐鬼症标准术语 |
 | UV Torch / UV Flashlight | 紫外线手电 | 恐鬼症标准术语 |
-| Laser Projector / Laser Grid Projector | 激光投射器 | 恐鬼症标准术语 |
+| Laser Projector / Laser Grid Projector | 点阵投影仪 | 恐鬼症标准术语 |
 | EMF Reader / EMF Sensor | EMF 读数器 | 恐鬼症标准术语 |
-| Notebook | 灵异笔记 | 恐鬼症灵异记录本 |
+| Notebook | 鬼魂笔记 | 恐鬼症灵异记录本 |
 | Audio Box / Ghost Box | 通灵盒 | 恐鬼症标准术语（Spirit Box） |
 
 ---
@@ -233,7 +233,7 @@
 | Dark Mirror | 照阴镜 | 驱鬼镜，照见阴物 |
 | Special Rope | 缚阴索 | 绑缚灵体的绳索 |
 | Cum Water | 淫水 | 直译保留 |
-| Candle | 蜡精烛 | 蜡烛 + 精的双关 |
+| Candle | 蜡烛 | 蜡烛 + 精的双关 |
 
 ---
 
@@ -243,7 +243,7 @@
 |------|--------|------|
 | Flour | 阴尘粉 | 驱鬼用的灵异粉尘 |
 | Incense Stick | 迷魂香 | 迷魂 + 香 |
-| Motion Camera | 动态感应摄像头 | 恐鬼症专业风格 |
+| Motion Camera | 运动传感器 | 恐鬼症专业风格 |
 | Honey Burger | 蜜汁汉堡 | 蜜 + 汁的双关 |
 | Fear Pills | 定魂丸 | 镇定恐惧的药丸 |
 | Energy Can / Energy Drink | 精力罐 | 精力（精液双关） |
@@ -304,7 +304,7 @@
 |------|--------|------|
 | UV Prints | 紫外线指纹 | 恐鬼症标准术语 |
 | Laser Apparition | 激光显影 | 恐鬼症标准术语 |
-| Ghost Orbs | 灵异光球 | 恐鬼症标准术语 |
+| Ghost Orbs | 灵球 | 恐鬼症标准术语 |
 | Writing | 灵异笔迹 | 恐鬼症标准术语 |
 | Freezing Temperature | 寒温 | 恐鬼症标准术语 |
 | Audio Response | 通灵回音 | 恐鬼症标准术语 |

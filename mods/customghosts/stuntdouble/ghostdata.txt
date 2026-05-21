@@ -1,0 +1,113 @@
+{
+    "ghostVoiceType": 2,
+    "ghostVoicePitch": 1.15,
+    "ghostVoiceType2": 2,
+    "ghostVoicePitch2": 1.15,
+    "sexButtonHeight": 1.3,
+    "idlePivot": [
+        0.52,
+        0.51
+    ],
+    "firstSexName": "bigmomo",
+    "firstSexSlapSound": 0,
+    "firstSexSlapSoundFrame": 3,
+    "firstSexPivot": [
+        0.52,
+        0.6
+    ],
+    "firstSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "firstCumPivot": [
+        0.52,
+        0.6
+    ],
+    "firstCumMaxFrame": 5,
+    "firstDownPivot": [
+        0.52,
+        0.6
+    ],
+    "secondSexName": "slimmomo",
+    "secondSexSlapSound": 0,
+    "secondSexSlapSoundFrame": 3,
+    "secondSexPivot": [
+        0.47,
+        0.51
+    ],
+    "secondSexTimer": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "secondCumPivot": [
+        0.47,
+        0.51
+    ],
+    "secondCumMaxFrame": 1,
+    "secondDownPivot": [
+        0.47,
+        0.51
+    ],
+    "firstSexSlapSoundPitch": 1.0,
+    "secondSexSlapSoundPitch": 1.0,
+    "ghostKnockName": "hifumiknock",
+    "airKnock": true,
+    "airKnockHeight": 0.5,
+    "airKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "airKnockTimer": [
+        0.12
+    ],
+    "groundKnockPivot": [
+        0.35,
+        0.5
+    ],
+    "groundKnockTimer": [
+        0.15,
+        0.15,
+        0.15,
+        0.15,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08,
+        0.08
+    ],
+    "ghostEvidenceType": [         
+        "LaserProj",
+        "Freezing",
+        "Writing"
+    ],
+    "ghostInteractionTypes": [         
+        "Power",
+        "Apparition"
+    ],
+    "breakerInteractChance": 2,
+    "nonChaseSpeed": 2.5,
+    "chaseSpeed": 3,
+    "ghostWeakness": 0,
+    "huntingStrategy": 1,
+    "ghostCurses": [         
+        "SexCurse",
+        "",
+        ""
+    ],
+    "huntThreshholds": [
+        0,
+        50,
+        75
+    ]
+}

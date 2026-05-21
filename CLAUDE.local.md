@@ -1,5 +1,5 @@
 # CSV 翻译任务指令
-
+项目地址:https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese
 ## 任务描述
 将游戏 "Lustful Spirit Hunt" 的 CSV 文件从英文翻译为中文。
 
@@ -16,7 +16,7 @@
 
 ### 术语优先
 - `glossary.py` 中 `ALL_GLOSSARY` 的词必须使用对应中文翻译
-- 鬼魂类型（温蒂、暴灵、河童妖...）
+- 鬼魂类型（温蒂、暴灵、河童...）
 - 角色名（太一、月子、拓、纯纱...）
 - 地点名（山奈市、常春大学...）
 - 工具名（摄像机、温度计、紫外线手电...）
