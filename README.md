@@ -1,5 +1,5 @@
 # Lustful Spirit Hunt 中文汉化补丁
-
+解压包密码为"https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese"
 > **补丁版本：** V0.4
 >
 > **项目地址：** [GitHub](https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese)
