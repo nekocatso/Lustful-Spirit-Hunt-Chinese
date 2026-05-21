@@ -4,6 +4,7 @@
 
 **项目**：成人向恐怖游戏本地化（简体中文）
 **设计目标**：建立完整的中文术语表，统一 9 个 CSV 文件中的所有专有名词翻译
+**项目地址**：https://github.com/nekocatso/Lustful-Spirit-Hunt-Chinese
 
 ---
 
@@ -361,7 +362,7 @@
 |------|--------|------|
 | Hillford Asylum | 平冢病院 | Hirakawa 的音译化 |
 | Evergreen University | 常春大学 | 意译 |
-| Sunrays Apartments | 朝日庄 | 日式公寓命名 |
+| Sunrays Apartments | 阳光公寓 | 日式公寓命名 |
 | Butt Naked Hotel (BN Hotel) | 露出旅馆 | 直译 + 色情化 |
 | Erotic World | 淫乐世界 | 直译色情化 |
 | Ghost Bangers Base | 鬼狩本部 | 鬼猎人基地 |
@@ -397,7 +398,7 @@
 | Possessed Items | 附魔物品 |
 | Haunted Items | 灵异物品 |
 | Travel Passes | 通行令 |
-| Lifetime Pass | 终身通行证 |
+| Lifetime Pass | 通行证 |
 
 ---
 

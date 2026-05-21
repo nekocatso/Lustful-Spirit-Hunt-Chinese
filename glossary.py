@@ -465,7 +465,7 @@ ALL_GLOSSARY = {
     "Hillford Asylum": "平冢病院",
     "Hirakawa Asylum": "平冢病院",
     "Evergreen University": "常春大学",
-    "Sunrays Apartments": "朝日庄",
+    "Sunrays Apartments": "阳光公寓",
     "Butt Naked Hotel": "露出旅馆",
     "BN Hotel": "露出旅馆",
     "Erotic World": "淫乐世界",
@@ -525,7 +525,7 @@ ALL_GLOSSARY = {
     "Possessed Items": "附魔物品",
     "Haunted Items": "灵异物品",
     "Travel Passes": "通行令",
-    "Lifetime Pass": "终身通行证",
+    "Lifetime Pass": "通行证",
     # --- .pyc 补充 UI 术语 ---
     "Pause": "暂停",
     "Resume": "继续",
