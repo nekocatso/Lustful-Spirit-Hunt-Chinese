@@ -1,0 +1,78 @@
+ID,English,Others,
+LangName,English,Spoilerish,
+MainMenu,主菜单,Main Menu,
+StartGame,开始游戏,Catch Ghosts,
+Options,选项,Options,
+ExitGame,退出游戏,Got Scared!,
+KeyConfigMenu,按键设置,Key Configuration,
+KeyConfiguration,按键设置：,Key Configuration :-,
+Up,上移,Move Up,
+Down,下移,Move Down,
+Left,左移,Move Left,
+Right,右移,Move Right,
+Run,奔跑,Run,
+Hunt,猎杀,Fuck Ghost,
+Interact,互动,Interact,
+Flashlight,手电开关,Use Torch,
+Use,使用物品,Use Item,
+Drop,丢弃物品,Drop Item,
+Slot1,选择栏位1,Select Slot1,
+Slot2,选择栏位2,Select Slot2,
+Slot3,选择栏位3,Select Slot3,
+Journal,灵异日志,Journal,
+Exchange,拓 辅助,Tatsuka Assist,
+Reset,重置,Reset,
+optionstitle,选项：,Options:-,
+music,音乐,Musics,
+sound,音效,Sounds,
+voice,语音,Voices,
+difficultytitle,难度：,Who’s the boss:-,
+difficulty1,简单,You,
+difficulty2,普通,Still you,
+difficulty3,噩梦,Ghost,
+erasedata,清除数据,Erase Data,
+erasedatatitle,清除数据：,Erase Data:-,
+delete,删除,Delete,
+alldata,全部数据,All Data,
+eraseset0,是否确认删除所有数据？,Do you want to delete all you data?,
+eraseset1,释放所有鬼魂（含自定义鬼魂）并重新捕获？,Release all ghost including custom ghosts and catch them again?,@NEW
+eraseset2,清除所有收集品，包括电视订阅、U盘、助手服装、灵异物品、钥匙和幽灵笔记残页？（需重新招募瑠美）,"Remove all collected items such as TV Subs, Pen Drives, Assistant Cloths, haunted items, keys & Ghostpedia Pages? (Ryomi Must be recruited again)",@NEW
+eraseset3,丢弃所有通行令？之后需要重新购买才能前往不同地点。,Throw Away all your travel Passes? You will need to buy them again to visit different sites.,@NEW
+eraseset4,从零开始！双方金币将设为100，并移除所有装备。,Begin from nothing! Both of your money will be set 100 and all equipment are removed.,@NEW
+eraseset5,遣散所有招募角色，让月子重新担任助手？需要重新招募所有人。,Kick all recruits and make Luna your assistant again? Will need to recruit everyone again.,@NEW
+eraseset101,重置月子、福斯特和谢泼德家的剧情线？,"Reset Questlines in Tsukiko, Fujimori and Sakurai Household?",@NEW
+eraseset102,重置病院和街道的剧情线？如果温蒂可以成为卡车助手，月子将被移除，需要重新招募。,Reset Questlines in Asylum and Street Level? If Kaori can become truck assistant Tsukiko will be removed and will need to be recruited again.,@NEW
+eraseset103,重置常春大学的剧情线？,Reset Questlines in Evergreen College level?,@NEW
+eraseset104,重置朝日庄的剧情线？,Reset Questlines in Sunrays Apartments Level?,@NEW
+eraseset105,重置芽衣家的剧情线？,Reset Questlines in Mei’s House?,@NEW
+yes,是,Yes,
+no,否,No,
+textspeed,对话文本速度,Dialogue Text Speed,
+slow,慢,Slow,
+normal,普通,Normal,
+fast,快,Fast,
+waitinput,等待输入中...,Waiting for your input...,
+restoredefault,恢复默认,Restore Default,
+ghostitems,附魔物品,Ghostly Sex-Toys,
+applychanges,应用更改,Apply Changes,
+fullscre,全屏,Fullscreen,
+resolution,屏幕分辨率,Screen Resolution,
+rerolcap,为已捕获鬼魂重新随机,Reroll! It's Same Ghost,
+textsize,文本大小,Text Size,
+sample,示例,SampLe,
+ghostoptions,鬼魂选项,Ghost Option,@NEW
+ghostoption0,仅官方,Official Only,@NEW
+ghostoption1,全部鬼魂,All Ghosts,@NEW
+ghostoption2,仅模组,Mod Only,@NEW
+ghostoption3,测试鬼魂,Test Ghost,@NEW
+resetquesttitle,重置剧情线：,Reset Questlines:-,@NEW
+erasetext1,已捕获鬼魂,Free All Ghosts,@NEW
+erasetext2,收集物品,Collected Items,@NEW
+erasetext3,通行令,Travel Passes,@NEW
+erasetext4,金币与猎具,Money & Hunting Tools,@NEW
+erasetext5,全部招募角色,All Recruits,@NEW
+erasequest1,福斯特与谢泼德家,Tatsuka & Sakurai Household,@NEW
+erasequest2,病院与城市街道,Asylum & City Streets,@NEW
+erasequest3,常春大学,Evergreen College,@NEW
+erasequest4,朝日庄,Sunrays Apartments,@NEW
+erasequest5,芽衣家,Mei's House,@NEW

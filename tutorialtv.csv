@@ -1,0 +1,61 @@
+ID,English,Others,Japanese
+welcome,欢迎,Welcome!,いらっしゃいませ！
+interbuttons,通过左右两侧的按钮来切换画面。,Interact with buttons on left and right to change screen.,左右のボタンを操作して画面を切り替えます。
+howtoplay,游玩方法,Fuck A Ghost,遊び方
+howpoint1,A) 找到3个证据。,A) Find 3 evidences.,A)証拠を 3 つ見つけます。
+howpoint2,B) 通过行为观察来鉴定。,B) Identify using behaviour.,B)行動を観察する。
+howpoint3,C) 在日志中选择鬼魂。,C) Select the ghost in journal.,C)ゴーストを選択します。
+howpoint4,D) 捕获鬼魂。,D) Fuck the ghost.,D) 幽霊を捕まえる。
+point1explain,你需要使用不同工具找到3个证据（共7种）。紫外线指纹、通灵盒、激光显影、寒温、灵异光球、灵异笔迹和EMF 4级。工具的详细用法将在后文说明。,"There are 3 evidences(out of 7) you must find using different tools. UV prints, Audio Box, Laser Projection, freezing temps, ghost orbs, writing and EMF Lvl 4. Detailed use of tools is explained later.",幽霊が示した証拠を 3/7 見つけなければなりません。すべての証拠はジャーナルの「結論」タブにリストされます。
+point2explain,光找到证据还不够。你必须观察鬼魂的行为来确认它的类型。留意一些特定现象，比如碎玻璃、水渍等。更多鬼魂信息请查看日志。,"Finding evidence is not enough. You have to observe ghost behaviour to confirm it's type. Look for something specific like shattered glass, water puddle, etc. For more information on a ghost, check the journal.",証拠を見つけるだけでは十分ではありません。鏡の幻影、水たまりなどの特定の行動を探します。幽霊に関する詳しい情報は日記で見つけることができます。
+point3explain,确认鬼魂类型后，在日志的“结论”标签页中选中它。这是在尝试驱逐鬼魂之前必须完成的步骤。,"Once ghost type is confirmed, select it in the 'conclusion' tab of your journal. It's necessary before trying to fuck a ghost.",ゴーストを確認したら、結論タブのゴーストの一覧から選択します。幽霊を捕まえる前に行う必要があります。
+point4part1,D) 捕获鬼魂。（第1部分）,D) Fucking ghost. (Part 1),D) ゴーストの捕獲 (パート 1)
+point41explain,你只能在猎杀开始时或猎杀期间捕获鬼魂。使用日志中显示的对应鬼魂的正确工具。一切操作正确后，鬼魂会被击倒。在其附近按下“猎杀”键。,You can capture ghost only during a hunt. You must use correct tool to set the mood. Once it's horny it will spread it's ass wide. Press 'Fuck' key near a horny ghost.,幽霊が狩りを始めたら、捕まえることができます。 それをキャプチャするには、正しいツールを使用する必要があります。 ダウンしたら、「くそ」を押してキャプチャします。
+point4part2,D) 捕获鬼魂。（第2部分）,D) Fucking ghost. (Part 2),D) ゴーストの捕獲 (パート 2)
+point42explain,鬼魂倒下后，屏幕上会出现两个条。使用上下键控制速度，尽量将指针保持在心形指示器位置。,Manage fuck speed using Up/Down and try matching it with the heart indicator.,上下キーでセックス速度を管理し、インジケーターに合わせて速度を維持するようにしてください。
+point4part3,D) 捕获鬼魂。（第3部分）,D) Fucking ghost. (Part 3),D) ゴーストの捕獲 (パート 3)
+point43explain,通过匹配速度来填满此条。填满后鬼魂即被捕获。这会消耗精力值。如果精力耗尽，鬼魂将恢复游荡状态。,Like that you must satisfy it before you run out of stamina. If you ran out of it ghost will be disappointed return to it's wandering state.,速度が一致するとクライマックスバーがいっぱいになります。バーがいっぱいになるとゴーストが捕らえられます。スタミナがなくなる前にそれを行ってください。
+point4part4,D) 捕获鬼魂。（第4部分）,D) Fucking ghost. (Part 4),D) ゴーストの捕獲 (パート 4)
+point44explain,鬼魂被捕获后，你可以通过访问电脑并按下“结束调查”按钮来离开现场。,"After sex, it will go to your house for round 2. You can exit site by choosing 'End Investigation' from your computer.",ゴーストが捕らえられた後は、トラック内のコンピューターにアクセスして現場から離れることができます。 幽霊を捕まえていなくても、いつでもサイトを離れることができます。
+toolname,工具,Tools,ツール
+tool1name,A) 证据工具,A) Evidence Tools,A) 証拠ツール
+tool2name,B) 驱鬼工具,B) Sex Toys,B) 追放ツール
+tool3name,C) 其他工具,C) Others,C)その他のツール
+toolobj1,1) 摄像机,1) Video Camera,1)ビデオカメラ
+toolobj2,2) 温度计,2) Hotness-meter,2) 温度計
+toolobj3,3) 紫外线手电,3) UV Flash-light,3)UVトーチ
+toolobj4,4) 激光投射器,4) Laser Projector,4)レーザーグリッド
+toolobj5,5) EMF读数器,5) Horny Reader,5)EMFリーダー
+toolobj6,6) 灵异笔记,6) Ghost Book,6)ゴーストブック
+toolobj7,7) 通灵盒,7) Ghost Box,7)オーディオボックス
+toolobj8,1) 破阴刃,1) Cursed Dildo,1)呪われたダガー
+toolobj9,2) 射精盐,2) Cum Salt,2)精液塩
+toolobj10,3) 照阴镜,3) Dark Mirror,3)黒い鏡
+toolobj11,4) 缚阴索,4) Sex Rope,4)特別なロープ
+toolobj12,5) 淫水,5) Cum Water,5)精液水
+toolobj13,6) 蜡精烛,6) Candles,6)キャンドル
+toolobj14,1) 阴尘粉,1) Flour,1)小麦粉
+toolobj15,2) 迷魂香,2) Incense Sticks,2)お線香
+toolobj16,3) 动态感应摄像头,3) Motion Camera,3)写真カメラ
+toolobj17,4) 蜜汁汉堡,4) Honey Burgers,4)ハニーバーガー
+toolobj18,5) 定魂丸,5) Sex Pills,5)恐怖の薬
+toolobj19,6) 精力罐,6) Energy Can,6)エネルギー缶
+toolobjuse1,可用于确认鬼房中的灵异光球。通过电脑访问摄像机（需开启夜视模式）。,Spy on ghosts from the truck. Can see orbs.,ゴーストルームでオーブを見つけるために使用します。コンピュータ経由でアクセスできます。(ナイトビジョンでのみ表示されます)
+toolobjuse2,可用它来寻找鬼房。鬼房的温度通常比其他房间更低。,Are ghost hot? Maybe not. Measures temperature in a room.,それを使用してゴーストルームを見つけます。ゴーストルームは他の部屋に比べて温度が低くなります。
+toolobjuse3,可以发现门、窗和其他物体上的紫外线指纹。,Find some naughty prints made by ghost.,窓、ドア、その他のオブジェクトへの UV プリントをご覧ください。
+toolobjuse4,可以确认激光显影。将其开启并通过摄像机观察。,Can confirm laser projection. Turn it on and observe it with video camera.,幽霊によって作られたレーザーの幻影をご覧ください。照明が消えているときのほうがよく見えます。
+toolobjuse5,可以捕捉鬼魂与物体互动后产生的EMF读数。,Measures level of horniness in a ghost.,幽霊のような活動によって生成された EMF レベルを読み取ります。
+toolobjuse6,可以用它获取灵异笔迹。放在鬼房附近效果更好。,Let ghost express themselves on it.,書き込みの証拠を得ることができます。より良い結果を得るには、ゴーストルームの近くに置きます。
+toolobjuse7,可以用它捕捉鬼魂的音频回应。在鬼房附近或内部使用效果最佳。,Converts ghostly whispers into simple intentions.,幽霊があなたの前を通過したときに、幽霊の音声応答をキャッチします。
+toolobjuse8,在猎杀开始时鬼魂处于静止状态时，将其刺入鬼魂体内。,Shove it in a ghost's ass while it's about to hunt.,狩りの初めに幽霊の中にそれを突っ込みます。
+toolobjuse9,将其洒在地上来伤害经过的鬼魂。冷却时间2秒。,Must damage a ghost by spilling it on the floor. Has 2 secs cool down,それを床に注ぐと、その上を通過するゴーストにダメージを与えます。
+toolobjuse10,站在大镜子前按下“使用”键来释放诅咒光线。,Stand in front of big mirrors and press ‘Use’ to cast cursed rays.,大きな鏡の前に立って「使用」キーを押して光線を放ちます。
+toolobjuse11,在猎杀开始时，在鬼魂附近反复按下“使用”键。,Repeatedly press ‘Use’ near ghost at the start of the hunt.,狩りの開始時に「使用」を繰り返し押してゴーストを捕まえます。
+toolobjuse12,将其扔向追赶你的鬼魂来将其击倒。,Moisten ghost up a bit before sex.,ゴーストに水をかけてノックします。
+toolobjuse13,在鬼魂准备猎杀时，将其放置在鬼魂3.5米范围内，共放两根。,Place two within 3.5m to burn ghost cloths.,狩りの開始時にゴーストをノックダウンするには、ゴーストから 3.5 メートルの範囲内に 2 本のキャンドルを置きます。
+toolobjuse14,确认鬼魂的飞行特性。,Confirm flying characteristics of a ghost.,ゴーストの飛行特性を確認する。
+toolobjuse15,被鬼魂抓住时可以用来快速逃脱。也可以在鬼房使用来延迟猎杀30秒。,Can take a break during sex or delay sex for 30 seconds.,幽霊に捕まった場合にそれを使って逃げましょう。ゴーストルームで使用すると、狩りを 30 秒遅らせることもできます。
+toolobjuse16,将其放在鬼房附近以完成可选目标。,Take some sexy photos of ghosts.,それを使用して写真の目的を完了します。
+toolobjuse17,这些汉堡具有恢复效果。恢复25点生命值。,Only HTA player know origin of this honey. Heals 25 HP.,体力の 25% を回復します。
+toolobjuse18,服用后让你无所畏惧，降低惧意条25%。,Soothes fear of rejection by a ghost.,恐怖を 25% 軽減します。
+toolobjuse19,让你在90秒内拥有无限跑步精力。,Can run to your girl's house with breaking a sweat if she is alone.,90秒間スタミナを使わずに走ります。
